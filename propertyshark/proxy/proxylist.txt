@@ -1,0 +1,3 @@
+http://host1:port
+http://username:password@host2:port
+http://host3:port
